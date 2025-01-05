@@ -9,5 +9,19 @@
         "name": "Abhishek Narula"
     },
     "items": [
+        {
+            "id": "https://scotchandsolder.github.io/cynkv2/new-show.html",
+            "url": "https://scotchandsolder.github.io/cynkv2/new-show.html",
+            "title": "New Show",
+            "summary": "This is a show!",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://scotchandsolder.github.io/cynkv2/media/posts/2/IMG_5188.jpg\" alt=\"\" width=\"3024\" height=\"4032\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://scotchandsolder.github.io/cynkv2/media/posts/2/responsive/IMG_5188-xs.jpg 640w ,https://scotchandsolder.github.io/cynkv2/media/posts/2/responsive/IMG_5188-sm.jpg 768w ,https://scotchandsolder.github.io/cynkv2/media/posts/2/responsive/IMG_5188-md.jpg 1024w ,https://scotchandsolder.github.io/cynkv2/media/posts/2/responsive/IMG_5188-lg.jpg 1366w ,https://scotchandsolder.github.io/cynkv2/media/posts/2/responsive/IMG_5188-xl.jpg 1600w ,https://scotchandsolder.github.io/cynkv2/media/posts/2/responsive/IMG_5188-2xl.jpg 1920w\"></figure>This is a show!</p>",
+            "author": {
+                "name": "Abhishek Narula"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-05T14:46:02-05:00",
+            "date_modified": "2025-01-05T14:46:02-05:00"
+        }
     ]
 }
