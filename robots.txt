@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://scotchandsolder.github.io/cynkv2/sitemap.xml
